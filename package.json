@@ -1,0 +1,15 @@
+{
+  "devDependencies": {
+    "sass": "^1.63.6",
+    "sass-loader": "^13.3.2"
+  },
+  "dependencies": {
+    "@icon-park/vue-next": "^1.4.2",
+    "@vitejs/plugin-vue": "^4.3.3",
+    "clipboard": "^2.0.11",
+    "crypto-js": "^4.1.1",
+    "dayjs": "^1.11.9",
+    "js-base64": "^3.7.5",
+    "vuex": "^4.1.0"
+  }
+}
